@@ -1,0 +1,9 @@
+{
+  "short_name": "DIO PWA",
+  "name": "Covid 19 DIO PWA",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
